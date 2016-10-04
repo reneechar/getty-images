@@ -1,0 +1,36 @@
+#container {
+	display: block;
+	padding: 10px;
+}
+
+#input {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+#search {
+	display: block;
+	margin: auto;
+}
+
+#display {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.displayBox {
+	margin: 10px;
+	padding:; 10px;
+	flex: 0 0 50px;
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
